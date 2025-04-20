@@ -78,6 +78,5 @@ jupyter notebook BreastCancerDetection-64.ipynb
 ## 📬 Contact
 
 **Supriya Bidanta**  
-Ph.D. Student, Bioengineering, Indiana University  
-Email: sbidanta@iu.edu  
+Indiana University, Bloomington 
 LinkedIn: [linkedin.com/in/supriya-bidanta](https://www.linkedin.com/in/supriya-bidanta/)
