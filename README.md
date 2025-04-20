@@ -13,7 +13,7 @@ This project implements a hybrid deep learning pipeline for classifying Invasive
 ```
 ├── BreastCancerDetection-64.ipynb         # Main notebook: full pipeline
 ├── Images/                                # Raw IDC histopathology images
-├── Generated_images/                                # Generated histopathological images using GAN
+├── Generated_images/                      # Generated histopathological images using GAN
 ```
 
 ---
